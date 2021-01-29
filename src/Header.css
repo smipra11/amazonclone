@@ -1,0 +1,59 @@
+.Header_logo{
+    width:100px;
+    margin-top: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.Header{
+    background-color: black;
+    display:flex;
+    align-items: center;
+    position: sticky;
+    position: top;
+    z-index: 100;
+    width:100%;
+    
+}
+.searchicon{
+    background-color: #cd9042;
+    height:22px
+    
+}
+.headersearch{
+    display:flex;
+    flex:1
+    
+}
+.searchinput{
+    height:25px;
+    width:100%;
+    border:none;
+}
+.header_nav{
+    display:flex;
+    justify-content: space-evenly;
+}
+.header_options{
+    display:flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+  
+   
+}
+.header_link{
+    color:white;
+    text-decoration: none;
+    
+}
+.header_optionone{
+    font-size: 10px;
+}
+.header_optiontwo{
+    font-size: 13px;
+    font-weight: bold;
+}
+.header_optionsbasket{
+    display:flex;
+}

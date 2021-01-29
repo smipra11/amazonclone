@@ -1,0 +1,22 @@
+.checkputproduct{
+    display:flex;
+    background-color: white;
+
+}
+.checkoutproduct_desc{
+    padding-left: 10px;
+    
+}
+
+.checkoutproduct_image{
+    width:180px;
+    height:180px;
+}
+
+.checkoutproduct_desc >button{
+    background-color: #f0c14b;
+
+}
+.checkoutproduct_rating{
+    display:flex;
+}
