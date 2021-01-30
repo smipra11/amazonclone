@@ -1,4 +1,4 @@
- Full stach Web Application Amazon clone using React on Forntend using Redux for State Managment and Firebase for Authetication and database
+ Full stack Web Application Amazon clone using React on Forntend using Redux for State Managment and Firebase for Authetication and database
 
 Technology used:
 
